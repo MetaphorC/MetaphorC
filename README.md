@@ -5,7 +5,7 @@ A Rust, functional + low-level programming, and Linux enthusiast.<br/>
 Owner of RustyOS and contributor at RedoxOS.<br/>
 I like playing guitar, football (soccer for 'muricans), and writing stories.<br/>
 <br/>
-If you wanna hire me, my timezone is IST. Shoot me an email.
+If you wanna hire me, my timezone is IST. Shoot me an email at metaphoricallyalive@proton.me
 <br/><br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
