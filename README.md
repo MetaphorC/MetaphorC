@@ -1,4 +1,4 @@
-![image](https://github.com/MetaphorC/MetaphorC/assets/95365522/689d5d3b-b2d5-4ced-94c0-3663e0a20eb6)![Welcome](https://vaxerski.xyz/github/TopGif.gif)
+[Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
 A Rust, functional + low-level programming, and Linux enthusiast.<br/>
