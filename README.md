@@ -1,4 +1,4 @@
-[Welcome](https://vaxerski.xyz/github/TopGif.gif)
+![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
 A Rust, functional + low-level programming, and Linux enthusiast.<br/>
