@@ -16,8 +16,7 @@ If you wanna hire me, my timezone is IST. Shoot me an email at metaphoricallyali
 *f - finished, uf - unfinished*<br/><br/>
 
 ![Divider](https://vaxerski.xyz/github/repos2.gif)
-I don't really have many right now, mostly because I like keeping my work open.
-
+I don't really have many right now.
   
    *All graphics on this profile are stolen from lord [Vaxerski](https://github.com/vaxerski)*
 </details>
